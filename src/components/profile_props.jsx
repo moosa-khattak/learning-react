@@ -34,13 +34,12 @@ function Profile({ user }) {
     <>
       <div
         style={{
-          backgroundColor: "purple",
+          backgroundColor: "black",
           width: "300px",
           padding: "20px",
           margin: "10px",
           borderRadius: "20px",
           color: "white",
-        
         }}
       >
         <img
